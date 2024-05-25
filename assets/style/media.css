@@ -1,0 +1,118 @@
+.bag {
+    width: 8vh;
+    height: 8vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=a2d21262f4bb6c85503387c9bf086d860ad6ee0f-8224441-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.player {
+    width: 100%;
+    height: 100%;
+    background-image: url('https://avatars.mds.yandex.net/i?id=22ff056892b56d620478e3a4bd7f6a3cd9fd1eca-10467522-images-thumbs&n=13');
+    background-size: cover;
+    /* background-position: ; */
+    background-repeat: no-repeat;
+}
+
+.bag-click {
+
+    background-image: url('https://avatars.mds.yandex.net/i?id=6f7a432c24e46f03fa97ddbb2d4dcf976b114e6b-9848644-images-thumbs&n=13');
+}
+
+
+.wood {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=2703344637b587245ac3ff5ecb3e7376e79e83c2-12911696-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.stone {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=94f1245415775971b7823d8d8006fa21716ddec0-10471642-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.leaf {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=f3fd45841354c2d593cdf7aeb2c9080b51b75cce-10100414-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.ground-land {
+    width: 100%;
+    /* Ensure the image takes up the entire width of the cell */
+    height: 100%;
+    background-image: url('https://avatars.mds.yandex.net/i?id=de8a3385f6342fbd8264f574a12df4ea085ec7b0-12146892-images-thumbs&n=13');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.ground {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=d9f2860157d07a9f9797aa4935e14b7e6f608a3c-12928152-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pickaxe {
+    width: 8vh;
+    height: 8vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=65c528519d2b566e3932198d7c3cf8d546fcefbd-2398611-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.shovel {
+
+    width: 8vh;
+    height: 8vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=3119864992466f0b6debff283cd8f883b25b9cbf-12990625-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.axe {
+    width: 8vh;
+    height: 8vh;
+    background-image: url('https://avatars.mds.yandex.net/i?id=9ae820cc69094bf29a47368fdb5c1789820600c8-9609067-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.axe-click {
+    cursor: url('https://avatars.mds.yandex.net/i?id=9ae820cc69094bf29a47368fdb5c1789820600c8-9609067-images-thumbs&n=13.jpg'), auto;
+
+    background-image: url('https://avatars.mds.yandex.net/i?id=331a85003bd54c79993dc46ed903e871223941a7-10350650-images-thumbs&n=13');
+}
+
+
+
+.pickaxe-click {
+
+    background-image: url('https://avatars.mds.yandex.net/i?id=daafa522ee4211530823db7af89fcd9980b392d2-9857741-images-thumbs&n=13');
+}
+
+.shovel-click {
+
+    background-image: url('https://avatars.mds.yandex.net/i?id=183821d6ce4e813b53757bf0e613872722921f8a-10092515-images-thumbs&n=13');
+}
